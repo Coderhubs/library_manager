@@ -5,6 +5,7 @@ from PIL import Image
 import library
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
 import base64
 
 # Ensure necessary directories exist
